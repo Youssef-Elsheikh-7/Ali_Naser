@@ -342,7 +342,7 @@ a {
     padding-top: var(--main-padding);
     padding-bottom: var(--main-padding);
     position: relative;
-    background-image: url(/images/jakob-owens-j5kEQ1JLqZk-unsplash.jpg);
+    background-image: url(../images/jakob-owens-j5kEQ1JLqZk-unsplash.jpg);
     background-size: cover;
 }
 .production .title {
